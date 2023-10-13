@@ -1,1 +1,2 @@
 This is just some text
+Added second line
